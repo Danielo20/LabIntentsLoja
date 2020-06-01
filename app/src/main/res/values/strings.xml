@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabIntents</string>
+    <string name="custom_camera">Capturar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="hnt_nombre">Nombre</string>
+    <string name="hnt_apellido">Apellido</string>
+    <string name="hnt_dni">DNI</string>
+    <string name="hnt_codigo">Codigo</string>
+    <string name="btn_ubicar">Ubicar</string>
+    <string name="txt_ubicar">Ubicacion actual</string>
+    <string name="chooser_msn">Escoja la aplicacion</string>
+</resources>
